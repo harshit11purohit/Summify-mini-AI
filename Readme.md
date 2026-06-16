@@ -18,7 +18,7 @@ An elegant, lightweight AI-powered web application that extracts text from YouTu
 *   **Frontend/App Framework:** [Streamlit](https://streamlit.io/)
 *   **LLM Orchestration:** [LangChain](https://www.langchain.com/)
 *   **Inference Engine:** [Groq Cloud API](https://groq.com/)
-*   **Model:** `Gemma-7b-It`
+*   **Model:** `llama-3.1-8b-instant`
 *   **Document Loaders:** `YoutubeLoader` & `UnstructuredURLLoader`
 
 ---
